@@ -1,4 +1,4 @@
-# Generative-AI
+# Video summariser
 
 ![In a nutshell - Peerlist](https://github.com/MadhushreeKunder/Generative-AI/assets/65384355/d251c7d2-4977-4081-87c0-c16a295f6c39)
 
